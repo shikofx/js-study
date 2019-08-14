@@ -20,5 +20,7 @@
   "bugs": {
     "url": "https://github.com/shikofx/jslearning/issues"
   },
-  "homepage": "https://github.com/shikofx/jslearning#readme"
+  "homepage": "https://github.com/shikofx/jslearning#readme",
+  "devDependencies": {},
+  "dependencies": {}
 }
